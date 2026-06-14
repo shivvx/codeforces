@@ -27,7 +27,7 @@
 
 <div align="center">
 <br/>
-<img src="images/preview.png" alt="Judge View" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+<img src="images/main.png" alt="Judge View" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
 <p><i>The beautifully crafted AMOLED Judge View</i></p>
 <br/>
 </div>
@@ -43,7 +43,7 @@ CodeForces Pro features a customized, state-of-the-art UI system:
 
 <div align="center">
 <br/>
-<img src="images/categorization.png" alt="Problem Categorization" width="40%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+<img src="images/problemss.png" alt="Problem Categorization" width="40%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
 <p><i>Track your progress by rating difficulty</i></p>
 <br/>
 </div>
@@ -66,7 +66,7 @@ To submit code directly from VS Code to Codeforces, the extension uses a browser
 
 <div align="center">
 <br/>
-<img src="images/test-submit.png" alt="Test and Submit" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+<img src="images/submit.png" alt="Test and Submit" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
 <p><i>Run locally against official constraints and submit seamlessly!</i></p>
 <br/>
 </div>
