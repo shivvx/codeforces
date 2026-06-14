@@ -1,16 +1,16 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Shivvx/vscode-codeforces/refs/heads/main/resources/codeforces.png" alt="CodeForces Pro Icon" width="128" height="128" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); margin-bottom: 16px;">
-    <h1>🚀 CodeForces Pro</h1>
-    <h3>The Premium Competitive Programming Extension for VS Code</h3>
-    
-    <p>
-        <a href="https://wiroxa.dev"><img src="https://img.shields.io/badge/Org-Wiroxa-7ed4b5?style=for-the-badge&logo=organization" alt="Wiroxa.dev"></a>
-        <a href="https://github.com/Shivvx"><img src="https://img.shields.io/badge/Developer-Shivvx-blue?style=for-the-badge&logo=github" alt="GitHub Badge"></a>
-        <a href="https://linkedin.com/in/Shivvx"><img src="https://img.shields.io/badge/LinkedIn-Shivvx-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
-        <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License Badge">
-    </p>
-    <br/>
-    <p>Practice, compile, test, and submit problems directly from your editor. Rebuilt for maximum visual elegance and robust, fast workflow execution.</p>
+<img src="images/codeforces.png" alt="CodeForces Pro Icon" width="128" height="128" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); margin-bottom: 16px;">
+<h1>🚀 CodeForces Pro</h1>
+<h3>The Premium Competitive Programming Extension for VS Code</h3>
+
+<p>
+<a href="https://wiroxa.dev"><img src="https://img.shields.io/badge/Org-Wiroxa-7ed4b5?style=for-the-badge&logo=organization" alt="Wiroxa.dev"></a>
+<a href="https://github.com/Shivvx"><img src="https://img.shields.io/badge/Developer-Shivvx-blue?style=for-the-badge&logo=github" alt="GitHub Badge"></a>
+<a href="https://linkedin.com/in/Shivvx"><img src="https://img.shields.io/badge/LinkedIn-Shivvx-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
+<img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License Badge">
+</p>
+<br/>
+<p>Practice, compile, test, and submit problems directly from your editor. Rebuilt for maximum visual elegance and robust, fast workflow execution.</p>
 </div>
 
 ---
@@ -26,10 +26,10 @@
 * 🎨 **Solution References** – Access reference code links from top-rated handles (e.g. *tourist*, *jiangly*) in the problem description view.
 
 <div align="center">
-    <br/>
-    <img src="https://raw.githubusercontent.com/Shivvx/vscode-codeforces/refs/heads/main/resources/docs/preview.png" alt="Judge View" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
-    <p><i>The beautifully crafted AMOLED Judge View</i></p>
-    <br/>
+<br/>
+<img src="images/preview.png" alt="Judge View" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+<p><i>The beautifully crafted AMOLED Judge View</i></p>
+<br/>
 </div>
 
 ---
@@ -42,10 +42,10 @@ CodeForces Pro features a customized, state-of-the-art UI system:
 * **Curated HSL Palettes:** Elegant rank coloring (Newbie, Pupil, Specialist, Expert, Master, etc.) matching VS Code theme variables.
 
 <div align="center">
-    <br/>
-    <img src="https://raw.githubusercontent.com/Shivvx/vscode-codeforces/refs/heads/main/resources/docs/categorization.png" alt="Problem Categorization" width="40%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
-    <p><i>Track your progress by rating difficulty</i></p>
-    <br/>
+<br/>
+<img src="images/categorization.png" alt="Problem Categorization" width="40%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+<p><i>Track your progress by rating difficulty</i></p>
+<br/>
 </div>
 
 ---
@@ -65,10 +65,10 @@ To submit code directly from VS Code to Codeforces, the extension uses a browser
 3. **Submit**: In VS Code, click the **Submit** button in the Judge View (or press `Ctrl+Alt+S`). Your code will instantly be picked up by your browser and submitted on Codeforces automatically!
 
 <div align="center">
-    <br/>
-    <img src="https://raw.githubusercontent.com/Shivvx/vscode-codeforces/refs/heads/main/resources/docs/test-submit.png" alt="Test and Submit" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
-    <p><i>Run locally against official constraints and submit seamlessly!</i></p>
-    <br/>
+<br/>
+<img src="images/test-submit.png" alt="Test and Submit" width="80%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+<p><i>Run locally against official constraints and submit seamlessly!</i></p>
+<br/>
 </div>
 
 ### 3. Basic Workflow
@@ -89,6 +89,6 @@ Developed by **Shivvx** under the **Wiroxa** organization.
 - **License:** Proprietary / Private License (not GPL/MIT). See the LICENSE file for terms.
 
 <div align="center">
-    <br/>
-    <sub>Built for speed. Designed for champions.</sub>
+<br/>
+<sub>Built for speed. Designed for champions.</sub>
 </div>
