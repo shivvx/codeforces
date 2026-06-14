@@ -1,6 +1,6 @@
 <div align="center">
-<img src="images/codeforces.png" alt="CodeForces Pro Icon" width="128" height="128" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); margin-bottom: 16px;">
-<h1>🚀 CodeForces Pro</h1>
+<img src="images/codeforces.png" alt="CodeForce Solver Icon" width="128" height="128" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); margin-bottom: 16px;">
+<h1>🚀 CodeForce Solver</h1>
 <h3>The Premium Competitive Programming Extension for VS Code</h3>
 
 <p>
@@ -36,7 +36,7 @@
 
 ## 🛠️ Visual Aesthetics
 
-CodeForces Pro features a customized, state-of-the-art UI system:
+CodeForce Solver features a customized, state-of-the-art UI system:
 * **Glassmorphism Design:** Subtle card borders, semi-transparent overlays, and backdrop blur variables.
 * **Animated Statuses:** Micro-animations for compilation, execution spinners, and pulsing status indicators.
 * **Curated HSL Palettes:** Elegant rank coloring (Newbie, Pupil, Specialist, Expert, Master, etc.) matching VS Code theme variables.
@@ -52,10 +52,10 @@ CodeForces Pro features a customized, state-of-the-art UI system:
 
 ## 🚀 Quick Start & Submission Guide
 
-CodeForces Pro makes submitting your solutions completely frictionless, but it requires a quick one-time setup.
+CodeForce Solver makes submitting your solutions completely frictionless, but it requires a quick one-time setup.
 
 ### 1. Installation
-1. Search for **CodeForces Pro** in the VS Code Marketplace.
+1. Search for **CodeForce Solver** in the VS Code Marketplace.
 2. Click **Install**.
 
 ### 2. How to use "Submit" (Important!)
